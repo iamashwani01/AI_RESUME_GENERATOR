@@ -72,7 +72,6 @@ Then open your browser and visit: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 .
 ├── main.py              # Main FastAPI app
 ├── requirements.txt     # Python dependencies
-├── Procfile             # (Optional) For deployment on Railway or Heroku
 └── README.md            # Project documentation
 ```
 
